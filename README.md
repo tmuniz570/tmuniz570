@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#####Here you can find some of my projects to enjoy.
+### Here you can find some of my projects to enjoy.
 
-#####🌱 I'm currently learning Software Engineering at HyperionDev.
-#####👯 I am looking to collaborate in a large development company.
-#####📫 How to reach me: tmuniz570@gmail.com
+##### 🌱 I'm currently learning Software Engineering at HyperionDev.
+##### 👯 I am looking to collaborate in a large development company.
+##### 📫 How to reach me: tmuniz570@gmail.com
 
 <!--
 **tmuniz570/tmuniz570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
