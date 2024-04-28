@@ -2,7 +2,7 @@
 
 ### Here you can find some of my projects to enjoy.
 
-##### 🌱 I'm currently learning Software Engineering at HyperionDev.
+##### 🌱 I’m currently learning ...
 ##### 👯 I am looking to collaborate in a large development company.
 ##### 📫 How to reach me: tmuniz570@gmail.com
 
