@@ -16,6 +16,7 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
 </div>
  
 <br>
@@ -29,9 +30,6 @@
   <a href="https://www.linkedin.com/in/tmuniz570" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/tmuniz570" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <!--
@@ -40,7 +38,6 @@
 ### Here you can find some of my projects to enjoy.
 -->
 ##### 🌱 I’m currently learning Data Science
-##### 📫 How to reach me: tmuniz570@gmail.com
 ##### ⚡ Fun fact: I have had computer skills since I was a child.
 
 I am a Data Scientist with a strong background in IT systems and data analysis. I specialize in Python, machine learning, SQL, and data visualization. After 10+ years in IT, I transitioned into data science to apply my skills in predictive modeling, data analysis, and statistical techniques to solve real-world business problems. My passion is using data-driven insights to drive business decisions and optimize processes.
