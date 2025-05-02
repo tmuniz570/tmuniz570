@@ -38,12 +38,20 @@
 ### Hi there 👋
 
 ### Here you can find some of my projects to enjoy.
-
-##### 🌱 I’m currently learning ...
-##### 👯 I am looking to collaborate in a large development company.
+-->
+##### 🌱 I’m currently learning Data Science
 ##### 📫 How to reach me: tmuniz570@gmail.com
+##### ⚡ Fun fact: I have had computer skills since I was a child.
 
+I am a Data Scientist with a strong background in IT systems and data analysis. I specialize in Python, machine learning, SQL, and data visualization. After 10+ years in IT, I transitioned into data science to apply my skills in predictive modeling, data analysis, and statistical techniques to solve real-world business problems. My passion is using data-driven insights to drive business decisions and optimize processes.
 
+I have hands-on experience in data manipulation, data cleaning, and exploratory data analysis (EDA), with expertise in tools like Pandas, NumPy, and Matplotlib. In my previous IT roles, I managed large datasets, created dashboards, and used SQL to query data for reporting and performance analysis. I also led projects to optimize IT systems, applying data-driven solutions to improve efficiency and reduce costs.
+
+I aim to leverage my skills in machine learning and statistical modeling to solve complex data challenges. I'm completing the TripleTen Data Science Bootcamp, where I worked on projects like customer churn prediction, regression analysis, and classification models. Moving forward, I am focused on expanding my expertise in deep learning, NLP (Natural Language Processing), and advanced machine learning techniques to tackle even more complex problems.
+
+I am proficient in Python, SQL, Pandas, Scikit-learn, Matplotlib, Seaborn, and statistics. I am continuously learning and applying the latest tools and techniques, including deep learning, AI, and big data analytics. My skills allow me to extract actionable insights from large datasets, build machine learning models, and deliver impactful solutions that drive business growth.
+
+<!--
 **tmuniz570/tmuniz570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
