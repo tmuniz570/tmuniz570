@@ -47,7 +47,9 @@ An end-to-end operational platform developed to automate commercial vehicle rent
   * **Paperless Legal Agreements:** Dynamically compiled court-admissible UK agreements (English Law) formatted into strict A4 pagination with biometric touch-canvas signatures.
   * **Multi-Tier Audit Trail:** 100% compliance traceability across financial ledgers, contracts, and operator actions with instant plate/customer lookup.
 
-👉 **[Explore the Architecture & Repository Details](https://github.com/tmuniz570/vehicle-rental-management)**
+> 🔒 *Proprietary Commercial System — Production codebase is private. Architecture, engineering decisions, and system specifications are documented in the public showcase below.*
+
+👉 **[Explore the Architecture & Engineering Showcase ↗](https://github.com/tmuniz570/enterprise-fleet-management-showcase)**
 
 ---
 
