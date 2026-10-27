@@ -22,11 +22,12 @@ What sets me apart is **Domain-Driven Engineering**: I don't just write code fro
 
 * ⚙️ **16+ Years in Tech (Since 2010):** Hands-on systems engineering, network infrastructure (switches, routing, structural cabling), hardware diagnostics, and Linux/Windows server administration.
 * 👔 **Operational Leadership:** Former Workshop & Operations Manager in Birmingham, UK, directing automotive fleet lifecycles, emergency logistics, and multi-stream financial ledgers.
-* 🎓 **Education & Specialization:** 
-  * 🇬🇧 **The University of Manchester** — *Software Engineering Bootcamp*
-  * 📊 **Data Science Academy** — *Postgraduate Degree in Data Analysis*
-  * 📱 **CESAR School** — *Mobile Applications Development*
-  * 🧠 **TripleTen & DIO** — *Data Science & Advanced Software Engineering*
+* 🎓 **Education & Formal Degrees:** 
+  * 🎓 **BSc / Degree in Systems Analysis & Development** — *UNINASSAU (Class of 2016)*
+  * 📊 **Postgraduate Degree in Data Analysis** — *Data Science Academy*
+  * 🇬🇧 **Software Engineering Bootcamp** — *The University of Manchester*
+  * 📱 **Mobile Applications Development** — *CESAR School*
+  * 🧠 **Data Science & Advanced Engineering** — *TripleTen & DIO*
 * 🏆 **Core Certifications:** SQL & SQL Server 2016 DBA, Power BI Data Analytics, Python with AI, Programming Logic.
 
 ---
