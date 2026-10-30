@@ -1,5 +1,5 @@
 # Hi there, I'm Thiago Brandão 👋
-### Solutions Architect • Full-Stack Systems Engineer • Data Specialist
+### Solutions Architect • Full-Stack Systems Engineer • AI-Augmented Developer
 **16+ years bridging Enterprise IT Infrastructure, Operations Leadership & Software Engineering to build high-reliability business systems.**
 
 <div align="center">
@@ -22,6 +22,7 @@ What sets me apart is **Domain-Driven Engineering**: I don't just write code fro
 
 * ⚙️ **16+ Years in Tech (Since 2010):** Hands-on systems engineering, network infrastructure (switches, routing, structural cabling), hardware diagnostics, and Linux/Windows server administration.
 * 👔 **Operational Leadership:** Former Operations Manager & Lead Software Systems Engineer in Birmingham, UK, directing commercial fleet lifecycles, emergency logistics, and enterprise cloud software architecture.
+* 🤖 **AI-Augmented Engineering (10x Velocity):** Pioneering agentic software workflows, LLM pair-programming, prompt-directed architecture, and automated test synthesis to ship enterprise-grade platforms in a fraction of traditional timeframes without sacrificing system rigor.
 * 🎓 **Education & Formal Degrees:** 
   * 🎓 **BSc / Degree in Systems Analysis & Development** — *UNINASSAU (Class of 2016)*
   * 📊 **Postgraduate Degree in Data Analysis** — *Data Science Academy*
@@ -55,6 +56,13 @@ An end-to-end operational platform developed to automate commercial vehicle rent
 ---
 
 ## 🛠️ Tech Stack & Core Competencies
+
+
+### 🤖 AI-Augmented Engineering & Agentic Workflows
+![Agentic_Workflows](https://img.shields.io/badge/Agentic_AI-Workflows-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![LLM_Pair_Programming](https://img.shields.io/badge/LLM_Pair_Programming-High_Velocity-008080?style=flat-square)
+![Prompt_Architecture](https://img.shields.io/badge/Prompt_Engineering-System_Design-FF4500?style=flat-square)
+![Automated_Testing](https://img.shields.io/badge/Automated_TDD-194_Unit_Tests-2ea44f?style=flat-square&logo=pytest&logoColor=white)
 
 ### 🏗️ Systems Engineering, Cloud & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
