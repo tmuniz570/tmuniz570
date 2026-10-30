@@ -21,7 +21,7 @@ I am a multifaceted technology professional with a **16+ year career** spanning 
 What sets me apart is **Domain-Driven Engineering**: I don't just write code from tickets; I have run operations on the ground—managing automotive workshops, hotel IT infrastructures, and enterprise networks. This hands-on operational leadership allows me to build software and data platforms that solve real, high-impact business bottlenecks.
 
 * ⚙️ **16+ Years in Tech (Since 2010):** Hands-on systems engineering, network infrastructure (switches, routing, structural cabling), hardware diagnostics, and Linux/Windows server administration.
-* 👔 **Operational Leadership:** Former Workshop & Operations Manager in Birmingham, UK, directing automotive fleet lifecycles, emergency logistics, and multi-stream financial ledgers.
+* 👔 **Operational Leadership:** Former Operations Manager & Lead Software Systems Engineer in Birmingham, UK, directing commercial fleet lifecycles, emergency logistics, and enterprise cloud software architecture.
 * 🎓 **Education & Formal Degrees:** 
   * 🎓 **BSc / Degree in Systems Analysis & Development** — *UNINASSAU (Class of 2016)*
   * 📊 **Postgraduate Degree in Data Analysis** — *Data Science Academy*
@@ -93,8 +93,9 @@ An end-to-end operational platform developed to automate commercial vehicle rent
 
 * **Freelance Technical Solutions & Systems Specialist** *(2010 – Present)*
   * Optimizing IT infrastructures across banking, retail, and corporate environments. Hardware diagnostics, network engineering, CCTV, and custom Python/SQL automation routines.
-* **Workshop & Operations Manager — FF Motors Birmingham** *(2025 – 2026)*
-  * Directed full lifecycle fleet operations, workshop administration, parts procurement, and emergency recovery logistics. Engineered bespoke database and software workflows to monitor rental contracts and cash flow in real time.
+* **Operations Manager & Lead Software Systems Engineer — FF Motors Birmingham** *(2025 – 2026)*
+  * Directed end-to-end commercial fleet operations while architecting and developing the company's proprietary cloud ERP platform (Python, Flask, PostgreSQL on GCP).
+  * Built an autonomous recurring billing engine with atomic SQL mutex locks, real-time WhatsApp debt recovery microservices, and automated DVLA/askMID statutory compliance verification.
 * **Operational & IT Manager — Pousada Praia Verde / Green Beach** *(2011 – 2021 | 9+ Years)*
   * Directed end-to-end IT infrastructure, PMS reservation systems, CCTV security, financial audits, and data-driven marketing campaigns to maximize recurring revenue.
 * **Cashier & IT Systems Specialist — Diviforro Ltd** *(2006 – 2009)*
