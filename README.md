@@ -1,131 +1,119 @@
 # Hi there, I'm Thiago Brandão 👋
-### Solutions Architect • Full-Stack Systems Engineer • AI-Augmented Developer
-**16+ years bridging Enterprise IT Infrastructure, Operations Leadership & Software Engineering to build high-reliability business systems.**
+### Senior Full-Stack Systems Engineer • Solutions Architect • AI & Data Engineer
+**16+ years bridging Enterprise IT Infrastructure, Commercial Operations Leadership & Cloud Software Engineering to build high-reliability production systems in the UK.**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmuniz570)
-[![Website](https://img.shields.io/badge/Website-ErroZero_Tech-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tmuniz570.github.io/ErroZero-Website/)
-[![HyperionDev Portfolio](https://img.shields.io/badge/Portfolio-HyperionDev-FF5A5F?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.hyperiondev.com/portfolio/101782/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmuniz570@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Birmingham%2C%20United%20Kingdom-red?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Thiago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmuniz570)
+[![Showcase](https://img.shields.io/badge/Flagship_Case_Study-Enterprise_Fleet_ERP-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmuniz570/enterprise-fleet-management-showcase)
+[![Website](https://img.shields.io/badge/Website-ErroZero_Tech-008080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tmuniz570.github.io/ErroZero-Website/)
+[![HyperionDev Portfolio](https://img.shields.io/badge/Portfolio-HyperionDev_Verified-6366F1?style=for-the-badge&logo=academia&logoColor=white)](https://www.hyperiondev.com/portfolio/101782/)
+[![Email](https://img.shields.io/badge/Email-tmuniz570%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmuniz570@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Birmingham%2C_UK_🇬🇧-0A3161?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 Executive Profile (Why Hire Me?)
 
-I am a multifaceted technology professional with a **16+ year career** spanning field systems engineering, operational leadership, data analytics, and cloud software development.
+I am a pragmatic, business-first **Systems Architect and Full-Stack Software Engineer** based in **Birmingham, UK**, with a **16+ year track record (since 2010)** across cloud software engineering, database architecture, data analytics, and mission-critical IT operations.
 
-What sets me apart is **Domain-Driven Engineering**: I don't just write code from tickets; I have run operations on the ground—managing automotive workshops, hotel IT infrastructures, and enterprise networks. This hands-on operational leadership allows me to build software and data platforms that solve real, high-impact business bottlenecks.
+What sets me apart is **End-to-End Domain Ownership**: I don't just write code in isolation from tickets—I have led real-world commercial operations on the ground in the UK. I identify revenue bottlenecks, compliance risks, and operational friction, and I engineer complete, resilient production platforms from database schema and Linux kernel tuning to AI-powered executive interfaces.
 
-* ⚙️ **16+ Years in Tech (Since 2010):** Hands-on systems engineering, network infrastructure (switches, routing, structural cabling), hardware diagnostics, and Linux/Windows server administration.
-* 👔 **Operational Leadership:** Former Operations Manager & Lead Software Systems Engineer in Birmingham, UK, directing commercial fleet lifecycles, emergency logistics, and enterprise cloud software architecture.
-* 🤖 **AI-Augmented Engineering (10x Velocity):** Pioneering agentic software workflows, LLM pair-programming, prompt-directed architecture, and automated test synthesis to ship enterprise-grade platforms in a fraction of traditional timeframes without sacrificing system rigor.
-* 🎓 **Education & Formal Degrees:** 
-  * 🎓 **BSc / Degree in Systems Analysis & Development** — *UNINASSAU (Class of 2016)*
+* 🏗️ **Production Cloud ERP & FinTech Architect:** Sole architect and lead engineer of a live commercial **Fleet, Legal Contract & FinTech Ledger ERP (`v1.9.101`)** managing **150+ commercial motorcycles** in Birmingham, UK on **Google Cloud Platform (GCP)** with **~3.9ms internal API latency** and **99.9% uptime**.
+* 🧠 **Applied AI Agents & Multimodal Engineering:** Builder of production **Multi-Turn Autonomous AI Copilots (Google Gemini 3.5 Flash)** featuring **Zero-Trust Read-Only Text-to-SQL Engines**, **Multimodal Vision OCR** for statutory document verification, UK GDPR PII masking, and real-time USD token spend governance.
+* ⚡ **AI-Augmented Engineering Velocity:** Combining 16+ years of systems fundamentals with modern agentic workflows, automated TDD suites (**20+ deterministic test suites**), and zero-downtime Git Hook CI/CD pipelines to ship enterprise-grade features with exceptional speed and reliability.
+* 🎓 **Academic & Technical Foundation:**
+  * 🎓 **Degree in Systems Analysis & Development** — *UNINASSAU (2016)*
   * 📊 **Postgraduate Degree in Data Analysis** — *Data Science Academy*
-  * 🇬🇧 **Software Engineering Bootcamp** — *The University of Manchester*
+  * 🇬🇧 **Software Engineering Bootcamp** — *The University of Manchester / HyperionDev*
   * 📱 **Mobile Applications Development** — *CESAR School*
-  * 🧠 **Data Science & Advanced Engineering** — *TripleTen & DIO*
-* 🏆 **Core Certifications:** SQL & SQL Server 2016 DBA, Power BI Data Analytics, Python with AI, Programming Logic.
+  * 🧠 **Data Science & Machine Learning** — *TripleTen & DIO*
 
 ---
 
-## 🏆 Featured Flagship Project (Live in Production)
+## 🏆 Flagship Production System (Live in the UK)
 
-### 🏍️ Enterprise Fleet Operations & Financial Management ERP (UK Market)
-> **Active Production System** | *Google Cloud Platform (GCP) • Birmingham, UK*
+### 🏍️ [Enterprise Fleet, FinTech Ledger & AI Operations Platform (UK Market)](https://github.com/tmuniz570/enterprise-fleet-management-showcase)
+> **Live Commercial Production (`v1.9.101`)** | *Python 3.10+ • Flask 3.0 • PostgreSQL 14 • Google Cloud Platform (GCP) • Gemini 3.5 Flash • Docker • Nginx*
 
-An end-to-end operational platform developed to automate commercial vehicle rentals, rent-to-buy sales contracts, accident claims, and weekly debt collections for UK motorcycle fleet operators.
+A mission-critical Vertical SaaS & ERP engineered from the ground up to automate commercial motorcycle rentals, rent-to-buy instalment sales, weekly recurring billing, UK statutory vehicle compliance, and remote cryptographic contract execution.
 
-* **Key Achievements & Architecture:**
-  * **Engineered from Real Operational Groundwork:** Designed and built based on direct on-site management experience at a fast-paced UK workshop and fleet yard.
-  * **High-Throughput Concurrency Armor:** Multi-worker WSGI architecture (Gunicorn + Linux systemd) backed by atomic SQL reservation locks (`JobExecutionLock`), eliminating race conditions in daily automated rent generation.
-  * **Ultra-Fast Edge & Latency:** Hosted on **Google Cloud Platform (GCP)** with Nginx reverse proxy, modern TLS 1.3, and Linux kernel memory tuning (`vm.swappiness = 10`), sustaining **~3.9ms internal endpoint latencies** and 99.9% uptime.
-  * **Automated WhatsApp Financial Gateway:** Custom anti-ban messaging engine paired via Docker and WebSockets, humanizing dispatches (typing simulation, jitter delays, spintax) and recovering late receivables on automated daily schedules.
-  * **UK Legal & DVLA Automation:** Built-in verification for MOT expiry dates, DVLA SORN off-road status, and bi-weekly askMID government insurance compliance database checks.
-  * **Paperless Legal Agreements:** Dynamically compiled court-admissible UK agreements (English Law) formatted into strict A4 pagination with biometric touch-canvas signatures.
-  * **Multi-Tier Audit Trail:** 100% compliance traceability across financial ledgers, contracts, and operator actions with instant plate/customer lookup.
+| Metric | Production Benchmark | Engineering Highlight |
+| :--- | :--- | :--- |
+| **Commercial Scale** | **150+ Active Fleet Vehicles** | Full asset, V5C logbook, GPS tracker, maintenance & UK claims lifecycle |
+| **API Performance** | **~3.9ms P50 Latency** | SQLAlchemy `joinedload`, B-tree indexing, `vm.swappiness=10` & 07:45 AM cache warm-up |
+| **AI Executive Copilot** | **6+1 Turn Autonomous Agent** | 12 domain tools, AST-sandboxed Read-Only Text-to-SQL (`SELECT`/`WITH`) & Multimodal OCR |
+| **Concurrency Armor** | **Zero Double-Billing** | Multi-worker Gunicorn protected by POSIX `fcntl.flock` + DB `JobExecutionLock` mutexes |
+| **Legal & Compliance** | **100% Paperless UK Law** | Remote WhatsApp e-signing (`/assinar/<token>`), Schedule 1 Warranties, DVLA SORN/MOT/askMID |
+| **Mobile PWA & Media** | **~85% Bandwidth Reduction** | Client-side HTML5 Canvas WebP compression for field yard check-in/out inspections |
 
-> 🔒 *Proprietary Commercial System — Production codebase is private. Architecture, engineering decisions, and system specifications are documented in the public showcase below.*
-
-👉 **[Explore the Architecture & Engineering Showcase ↗](https://github.com/tmuniz570/enterprise-fleet-management-showcase)**
+👉 **[Read the Complete Engineering Case Study, Mermaid Diagrams & STAR Deep-Dives ↗](https://github.com/tmuniz570/enterprise-fleet-management-showcase)**
 
 ---
 
-## 🛠️ Tech Stack & Core Competencies
+## 🛠️ Core Technical Stack & Engineering Competencies
 
-
-### 🤖 AI-Augmented Engineering & Agentic Workflows
-![Agentic_Workflows](https://img.shields.io/badge/Agentic_AI-Workflows-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![LLM_Pair_Programming](https://img.shields.io/badge/LLM_Pair_Programming-High_Velocity-008080?style=flat-square)
-![Prompt_Architecture](https://img.shields.io/badge/Prompt_Engineering-System_Design-FF4500?style=flat-square)
-![Automated_Testing](https://img.shields.io/badge/Automated_TDD-194_Unit_Tests-2ea44f?style=flat-square&logo=pytest&logoColor=white)
-
-### 🏗️ Systems Engineering, Cloud & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Networking](https://img.shields.io/badge/Network_Infra-Switches_%2F_Routers_%2F_Cabling-blue?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 💻 Backend & Application Development
-![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask_3.0-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![REST_APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### 📊 Data Analysis, Business Intelligence & Automation
-![SQL](https://img.shields.io/badge/SQL_Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### 🧠 AI Agents, LLMs & Data Science
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_3.5-Function_Calling_%26_OCR-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-Zero--Trust_Sandbox-10B981?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain_%26_Groq-LLM_Pipelines-1C3C3C?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau_Online-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-FF6F00?style=flat-square&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks_%26_Automation-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI_%26_Tableau-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### ⚙️ Backend, FinTech Ledgers & Web Architecture
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask_3.0_(WSGI)-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_14-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server_DBA-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_ES6+_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/Mobile_First_PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+### ☁️ Cloud Infrastructure, DevOps & Security
+![GCP](https://img.shields.io/badge/Google_Cloud_(GCP)-Compute_Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu_LTS-Kernel_Tuning-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Edge_Security_%26_TLS_1.3-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Microservices-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn_%26_systemd-Zero--Downtime_CI%2FCD-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/Evolution_API_v2-Baileys_WebSockets-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ---
 
-## 📈 Experience Highlights
+## 📂 Selected Public Repositories & Case Studies
 
-* **Freelance Technical Solutions & Systems Specialist** *(2010 – Present)*
-  * Optimizing IT infrastructures across banking, retail, and corporate environments. Hardware diagnostics, network engineering, CCTV, and custom Python/SQL automation routines.
-* **Operations Manager & Lead Software Systems Engineer — FF Motors Birmingham** *(2025 – 2026)*
-  * Directed end-to-end commercial fleet operations while architecting and developing the company's proprietary cloud ERP platform (Python, Flask, PostgreSQL on GCP).
-  * Built an autonomous recurring billing engine with atomic SQL mutex locks, real-time WhatsApp debt recovery microservices, and automated DVLA/askMID statutory compliance verification.
-* **Operational & IT Manager — Pousada Praia Verde / Green Beach** *(2011 – 2021 | 9+ Years)*
-  * Directed end-to-end IT infrastructure, PMS reservation systems, CCTV security, financial audits, and data-driven marketing campaigns to maximize recurring revenue.
-* **Cashier & IT Systems Specialist — Diviforro Ltd** *(2006 – 2009)*
-  * Built custom SQL databases for inventory and financial management, eliminating stock discrepancies and automating cash-flow reconciliation.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmuniz570&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Thiago's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmuniz570&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+| Repository | Domain | Highlights |
+| :--- | :--- | :--- |
+| **[`enterprise-fleet-management-showcase`](https://github.com/tmuniz570/enterprise-fleet-management-showcase)** | **Cloud ERP, FinTech & AI Agents** | Production Architecture Showcase of the UK Fleet ERP: Multi-Turn Gemini 3.5 AI Copilot, Read-Only Text-to-SQL, Double-Entry Ledger, Remote e-Signing & GCP Hardening. |
+| **[`MyFirstChatUsingGroqLangchain`](https://github.com/tmuniz570/MyFirstChatUsingGroqLangchain)** | **Conversational AI / LLMs** | Ultra-low-latency conversational AI implementation leveraging Python, LangChain, and the Groq LPU inference engine. |
+| **[`Beta-Bank-Churn-Analysis-and-Predict`](https://github.com/tmuniz570/Beta-Bank-Churn-Analysis-and-Predict)** | **Machine Learning (FinTech)** | Retail banking customer churn prediction using supervised classification, class imbalance optimization, and ROC-AUC evaluation (`Scikit-Learn`). |
+| **[`Insurance-Statement-Linear-Regression`](https://github.com/tmuniz570/Insurance-Statement-Linear-Regression)** | **Predictive Modeling** | Linear regression modeling and statistical feature analysis on insurance claim statements using Python and Pandas. |
+| **[`Megaline-Data-Analysis-and-Predict`](https://github.com/tmuniz570/Megaline-Data-Analysis-and-Predict)** | **Statistical Data Science** | Revenue optimization and statistical hypothesis testing for telecom tariff plans using Python, SciPy, and Matplotlib. |
+| **[`ErroZero-Website`](https://github.com/tmuniz570/ErroZero-Website)** | **Web & Brand Engineering** | Official portfolio website for ErroZero Tech — Enterprise IT solutions, network engineering, and custom software automation. |
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 💼 Career & Leadership Highlights
 
-I am open to consulting engagements, high-impact freelance projects, and senior software engineering / solutions architecture roles across the UK and internationally.
+* **Operations Manager & Lead Software Systems Engineer — FF Motors (Birmingham, UK)** *(2025 – 2026)*
+  * Directed commercial fleet operations for a 150+ vehicle dealership while architecting, building, and deploying the company's proprietary cloud ERP, FinTech billing ledger, WhatsApp automation gateway, and Gemini 3.5 AI Executive Copilot on GCP.
+* **Independent Solutions Architect & Systems Consultant — ErroZero Tech** *(2010 – Present)*
+  * 16+ years delivering custom software automation, SQL database optimization, network infrastructure (routing, switching, structured cabling), and server administration for retail, hospitality, and corporate clients.
+* **Operations & IT Infrastructure Manager — Pousada Praia Verde / Green Beach** *(2011 – 2021 | 9+ Years)*
+  * Led end-to-end IT infrastructure, property management systems (PMS), financial auditing, and data-driven occupancy optimization.
 
-* 📍 Location: **Birmingham, England, United Kingdom** 🇬🇧
-* 🌐 Website: **[ErroZero-Website](https://tmuniz570.github.io/ErroZero-Website/)**
-* 📁 Portfolio: **[HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/101782/)**
-* 💼 LinkedIn: **[linkedin.com/in/tmuniz570](https://www.linkedin.com/in/tmuniz570)**
-* 📧 Email: **[tmuniz570@gmail.com](mailto:tmuniz570@gmail.com)**
+---
+
+## 🤝 Open to Opportunities — Let's Talk!
+
+I am actively open to **Senior/Lead Full-Stack Software Engineer, Backend Engineer (Python/SQL), Solutions Architect, and AI Applications Engineer** roles across the **United Kingdom (Birmingham / West Midlands / London / Remote)** and internationally.
+
+* 📍 **Location:** Birmingham, England, United Kingdom 🇬🇧 *(Full UK Work Authorization)*
+* 💼 **LinkedIn:** **[linkedin.com/in/tmuniz570](https://www.linkedin.com/in/tmuniz570)**
+* 🌐 **Website:** **[tmuniz570.github.io/ErroZero-Website](https://tmuniz570.github.io/ErroZero-Website/)**
+* 🎓 **HyperionDev Portfolio:** **[hyperiondev.com/portfolio/101782](https://www.hyperiondev.com/portfolio/101782/)**
+* 📧 **Direct Email:** **[tmuniz570@gmail.com](mailto:tmuniz570@gmail.com)**
