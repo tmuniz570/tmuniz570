@@ -21,9 +21,9 @@ I am a pragmatic, business-first **Systems Architect and Full-Stack Software Eng
 
 What sets me apart is **End-to-End Domain Ownership**: I don't just write code in isolation from tickets—I have led real-world commercial operations on the ground in the UK. I identify revenue bottlenecks, compliance risks, and operational friction, and I engineer complete, resilient production platforms from database schema and Linux kernel tuning to AI-powered executive interfaces.
 
-* 🏗️ **Production Cloud ERP & FinTech Architect:** Sole architect and lead engineer of a live commercial **Fleet, Legal Contract & FinTech Ledger ERP (`v1.9.101`)** managing **150+ commercial motorcycles** in Birmingham, UK on **Google Cloud Platform (GCP)** with **~3.9ms internal API latency** and **99.9% uptime**.
+* 🏗️ **Production Cloud ERP & FinTech Architect:** Sole architect and lead engineer of a live commercial **Fleet, Legal Contract & FinTech Ledger ERP (`v1.9.106`)** managing **200+ registered commercial motorcycles (150+ in active circulation)** in Birmingham, UK on **Google Cloud Platform (GCP)** with **~3.9ms internal API latency** and **99.9% uptime**.
 * 🧠 **Applied AI Agents & Multimodal Engineering:** Builder of production **Multi-Turn Autonomous AI Copilots (Google Gemini 3.5 Flash)** featuring **Zero-Trust Read-Only Text-to-SQL Engines**, **Multimodal Vision OCR** for statutory document verification, UK GDPR PII masking, and real-time USD token spend governance.
-* ⚡ **AI-Augmented Engineering Velocity:** Combining 16+ years of systems fundamentals with modern agentic workflows, automated TDD suites (**20+ deterministic test suites**), and zero-downtime Git Hook CI/CD pipelines to ship enterprise-grade features with exceptional speed and reliability.
+* ⚡ **AI-Augmented Engineering Velocity:** Combining 16+ years of systems fundamentals with modern agentic workflows, automated TDD suites (**53 deterministic test suites / 222 unit & integration tests**), and zero-downtime Git Hook CI/CD pipelines to ship enterprise-grade features with exceptional speed and reliability.
 * 🎓 **Academic & Technical Foundation:**
   * 🎓 **Degree in Systems Analysis & Development** — *UNINASSAU (2016)*
   * 📊 **Postgraduate Degree in Data Analysis** — *Data Science Academy*
@@ -36,13 +36,13 @@ What sets me apart is **End-to-End Domain Ownership**: I don't just write code i
 ## 🏆 Flagship Production System (Live in the UK)
 
 ### 🏍️ [Enterprise Fleet, FinTech Ledger & AI Operations Platform (UK Market)](https://github.com/tmuniz570/enterprise-fleet-management-showcase)
-> **Live Commercial Production (`v1.9.101`)** | *Python 3.10+ • Flask 3.0 • PostgreSQL 14 • Google Cloud Platform (GCP) • Gemini 3.5 Flash • Docker • Nginx*
+> **Live Commercial Production (`v1.9.106`)** | *Python 3.10+ • Flask 3.0 • PostgreSQL 14 • Google Cloud Platform (GCP) • Gemini 3.5 Flash • Docker • Nginx*
 
 A mission-critical Vertical SaaS & ERP engineered from the ground up to automate commercial motorcycle rentals, rent-to-buy instalment sales, weekly recurring billing, UK statutory vehicle compliance, and remote cryptographic contract execution.
 
 | Metric | Production Benchmark | Engineering Highlight |
 | :--- | :--- | :--- |
-| **Commercial Scale** | **150+ Active Fleet Vehicles** | Full asset, V5C logbook, GPS tracker, maintenance & UK claims lifecycle |
+| **Commercial Scale** | **200+ Registered Fleet Vehicles** | Full asset, V5C logbook, GPS tracker lifecycle, Rent-to-Buy state machine & UK claims |
 | **API Performance** | **~3.9ms P50 Latency** | SQLAlchemy `joinedload`, B-tree indexing, `vm.swappiness=10` & 07:45 AM cache warm-up |
 | **AI Executive Copilot** | **6+1 Turn Autonomous Agent** | 12 domain tools, AST-sandboxed Read-Only Text-to-SQL (`SELECT`/`WITH`) & Multimodal OCR |
 | **Concurrency Armor** | **Zero Double-Billing** | Multi-worker Gunicorn protected by POSIX `fcntl.flock` + DB `JobExecutionLock` mutexes |
